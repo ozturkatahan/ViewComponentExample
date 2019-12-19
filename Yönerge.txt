@@ -1,0 +1,3 @@
+Views/Shared'ýn içine Components diye klasör aç
+Components'in için CategoriesList aç
+CategoriesListin içine Default adýnda View aç. (partial viewý seçerek)

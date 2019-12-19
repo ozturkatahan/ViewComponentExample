@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewComponentGiris", "ViewComponentGiris\ViewComponentGiris.csproj", "{4BF8CAEA-1840-40A4-9759-E78816A1047E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{64111365-FF3C-4F4D-BB0B-37A772BD821A}"
+	ProjectSection(SolutionItems) = preProject
+		Yönerge.txt = Yönerge.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BF8CAEA-1840-40A4-9759-E78816A1047E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF8CAEA-1840-40A4-9759-E78816A1047E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF8CAEA-1840-40A4-9759-E78816A1047E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF8CAEA-1840-40A4-9759-E78816A1047E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E99E2AF9-F5DE-475A-8E13-69D5757D12D8}
+	EndGlobalSection
+EndGlobal
